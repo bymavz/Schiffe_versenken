@@ -10,4 +10,5 @@ Erweiterungsidee:
 
 Das Spiel wird auf 2 Spieler erweitert, wobei jeder Spieler über einen eigenen Rechner verfügt
 und damit die Schiffe auf einem gemeinsamen Feld versenken muss.
-Gewonnen hat derjenige, der die meisten Schiffe versenkt hat!
+Gewonnen hat derjenige, der die meisten Schiffe versenkt hat und alle Schiffe von den beiden Spielern 
+getroffen wurden!
